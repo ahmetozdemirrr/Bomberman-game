@@ -46,4 +46,4 @@ This project involves the implementation of a simplified version of the famous B
 ## Notes
 
 To run this project you must have the asm simulator called MARS. To access it, you can visit: 
-`[MARS MIPS] (https://courses.missouristate.edu/kenvollmar/mars/)`
+[MARS MIPS] (https://courses.missouristate.edu/kenvollmar/mars/)
