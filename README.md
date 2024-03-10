@@ -44,4 +44,6 @@ This project involves the implementation of a simplified version of the famous B
 - Gain insights into compiler workings.
 
 ## Notes
-To run this project you must have the asm simulator called MARS. To access it, you can visit: `https://courses.missouristate.edu/kenvollmar/mars/`
+
+To run this project you must have the asm simulator called MARS. To access it, you can visit: 
+`[MARS MIPS] (https://courses.missouristate.edu/kenvollmar/mars/)`
